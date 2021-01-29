@@ -1,4 +1,4 @@
-# u-chain
+# μ-chain
 
 A tiny implementation of a blockchain, for educational purposes. Inspired by [snakecoin](https://gist.github.com/aunyks/47d157f8bc7d1829a729c2a6a919c173).
 
